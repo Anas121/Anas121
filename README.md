@@ -3,8 +3,7 @@
 <h3 align="left">Jeune étudiant passionné par l'informatique.</h3>
 <h3 align="left">Me contacter:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/anas121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anas121" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anas121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anas121" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anas121_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anas121_" height="30" width="40" /></a>
 <a href="https://discord.gg/anas121_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anas121_" height="30" width="40" /></a>
 </p>
 
