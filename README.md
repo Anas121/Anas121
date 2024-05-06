@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! 👋</h1>
 
-## Bienvenue sur mon profile github. ici vous trouverez tout mes exercices et projets en différents **_langages_**. 
-_Bonne visite ! :)_
+## Bienvenue sur mon profile github. Vous trouverez ici tout mes exercices et projets en différents **_langages_**. 
+> _Bonne visite ! :)_
 
 <h3 align="left">- Contacts :</h3>
 <p align="left">
