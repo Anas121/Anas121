@@ -1,17 +1,81 @@
 <h1 align="center">Hello world! 👋</h1>
 
-## Bienvenue sur mon profile github. Vous trouverez ici tout mes exercices et projets en différents **_langages_**. 
-> _Bonne visite ! :)_
+<div align="center">
 
-<h3 align="left">- Contacts :</h3>
-<p align="left">
-<a href="https://www.leetcode.com/anas121_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anas121_" height="30" width="40" /></a>
-<a href="https://discord.gg/anas121_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anas121_" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&duration=3000&pause=1000&color=C9A96E&center=true&width=600&lines=Flutter+Developer;Mobile+%26+Web+sur+mesure;Firebase+%2F+Riverpod+%2F+Go+Router" alt="Typing SVG" />
 
-<h3 align="left">- Outils et langagues :</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<p>
+**Développeur d'applications Flutter — mobile, web & panel admin**  
+Je conçois des solutions complètes, du design système à la mise en production.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
+[![Email](https://img.shields.io/badge/Contact-email%40exemple.com-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:email@exemple.com)
+[![Portfolio](https://img.shields.io/badge/Démo%20live-Aura%20Estates-%23C9A96E?style=flat&logo=firebase&logoColor=white)](https://TON-PROJET.web.app)
+
+</div>
+
+---
+
+## Ce que je construis
+
+Applications **Flutter multiplateformes** avec une architecture propre et scalable — du prototype jusqu'au déploiement en production.
+
+- **Apps mobile** (Android / iOS) — interfaces fluides, navigation complexe, intégration API
+- **Panels admin web** — tableaux de bord, gestion de données, CRUD complet
+- **Backends Firebase** — Firestore temps réel, Authentication, Storage, Hosting
+
+Je travaille avec le **pattern Repository / Controller** et **Riverpod** pour une séparation claire des responsabilités et un code maintenable sur le long terme.
+
+---
+
+## Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Riverpod](https://img.shields.io/badge/Riverpod-%2300B4D8?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## Projet phare
+
+<table>
+  <tr>
+    <td width="60">
+      <img src="https://img.shields.io/badge/01-%23C9A96E?style=for-the-badge" />
+    </td>
+    <td>
+      <strong>Aura Estates — Plateforme immobilière de luxe</strong><br/>
+      Application mobile client + panel d'administration web, architecture monorepo Flutter/Firebase.<br/>
+      Gestion des propriétés, réservations temps réel, upload d'images, synchronisation live.<br/>
+      <br/>
+      <a href="https://github.com/TON-USERNAME/aura-estates">
+        <img src="https://img.shields.io/badge/Code source-%23181717?style=flat&logo=github" />
+      </a>
+      &nbsp;
+      <a href="https://TON-PROJET.web.app">
+        <img src="https://img.shields.io/badge/Démo live-%23C9A96E?style=flat&logo=firebase&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Disponibilité
+
+> 🟢 &nbsp; **Disponible pour missions freelance** — projets sur devis, développement d'applications sur mesure.
+
+<div align="center">
+
+*Basé au Maroc · Clients France & Europe bienvenus · Remote*
+
+</div>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Anas121_)
 >###### _<a href="https://ko-fi.com/anas121">Buy me a coffee</a>_
