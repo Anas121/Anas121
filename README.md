@@ -76,6 +76,4 @@ Je travaille avec le **pattern Repository / Controller** et **Riverpod** pour un
 *Basé au Maroc · Clients France & Europe bienvenus · Remote*
 
 </div>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Anas121_)
 >###### _<a href="https://ko-fi.com/anas121">Buy me a coffee</a>_
