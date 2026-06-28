@@ -11,8 +11,6 @@ Je conçois des solutions complètes, du design système à la mise en productio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
 [![Email](https://img.shields.io/badge/Contact-stiti.anas%40proton.me-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stiti.anas@proton.me)
-[![Portfolio](https://img.shields.io/badge/Démo%20live-Aura%20Estates-%23C9A96E?style=flat&logo=firebase&logoColor=white)](https://appetize.io/app/b_e7vnmtshjkg5pwaib3lsuzpebm)
-
 </div>
 
 ---
