@@ -63,7 +63,7 @@ Je travaille avec le **pattern Repository / Controller** et **Riverpod** pour un
       </a>
       &nbsp;
       <a href="https://Anas121.github.io/aura_estates/">
-                <img src="https://img.shields.io/badge/Présentation-Live%20Demo-C9A96E?style=for-the-badge" />
+                <img src="https://img.shields.io/badge/Présentation-%23C9A96E?style=flat&logo=firebase&logoColor=white" />
       </a>
     </td>
   </tr>
