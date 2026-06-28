@@ -61,7 +61,10 @@ Je travaille avec le **pattern Repository / Controller** et **Riverpod** pour un
       <a href="https://appetize.io/app/b_e7vnmtshjkg5pwaib3lsuzpebm">
         <img src="https://img.shields.io/badge/Démo live-%23C9A96E?style=flat&logo=firebase&logoColor=white" />
       </a>
-      [![Live Demo](https://img.shields.io/badge/Présentation-Live%20Demo-C9A96E?style=for-the-badge)](https://Anas121.github.io/aura_estates/)
+      &nbsp;
+      <a href="https://Anas121.github.io/aura_estates/">
+                <img src="https://img.shields.io/badge/Présentation-Live%20Demo-C9A96E?style=for-the-badge" />
+      </a>
     </td>
   </tr>
 </table>
