@@ -54,13 +54,14 @@ Je travaille avec le **pattern Repository / Controller** et **Riverpod** pour un
       Application mobile client + panel d'administration web, architecture monorepo Flutter/Firebase.<br/>
       Gestion des propriétés, réservations temps réel, upload d'images, synchronisation live.<br/>
       <br/>
-      <a href="https://github.com/TON-USERNAME/aura-estates">
+      <a href="https://github.com/Anas121/aura-estates">
         <img src="https://img.shields.io/badge/Code source-%23181717?style=flat&logo=github" />
       </a>
       &nbsp;
       <a href="https://appetize.io/app/b_e7vnmtshjkg5pwaib3lsuzpebm">
         <img src="https://img.shields.io/badge/Démo live-%23C9A96E?style=flat&logo=firebase&logoColor=white" />
       </a>
+      [![Live Demo](https://img.shields.io/badge/Présentation-Live%20Demo-C9A96E?style=for-the-badge)](https://Anas121.github.io/aura_estates/)
     </td>
   </tr>
 </table>
