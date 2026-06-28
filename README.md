@@ -9,8 +9,8 @@ Je conçois des solutions complètes, du design système à la mise en productio
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
-[![Email](https://img.shields.io/badge/Contact-stiti.anas%40proton.me-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stiti.anas@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stitianas121/)
+[![Email](https://img.shields.io/badge/stiti.anas%40proton.me-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stiti.anas@proton.me)
 </div>
 
 ---
